@@ -1,0 +1,4 @@
+1. 5 tuntia
+2. Tehtävä oli minulle todella vaikea oikeastaan kokonaan. Lopulta kuitenkin sain tehtyä toimivan ohjelman.
+3. Opin arraylistin käyttöä
+4. -
